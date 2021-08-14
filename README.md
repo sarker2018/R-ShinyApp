@@ -31,5 +31,8 @@
 ## Making Dashboards
 ## Introduction to `flexdashboard`
 ## Xie et at, section 5.1
-<h2>Layouts for flexdashboards<>
+<h2>Layouts for flexdashboards
+  
+## Tabsets & Pages with Dashboards
+
   
