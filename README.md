@@ -19,7 +19,7 @@
 ## Output & Input with Shiny
   ## Shiny Documentations
   ## Shiny function reference - UI Inputs & Outputs
-  Shiny References: Using Sliders
+  ## Shiny References: Using Sliders
   
 <h2>Controlling Layouts in Shiny</>
   
@@ -27,5 +27,5 @@
   ## Shiny themes
   ## Shiny References: Application Layout Guide
   
-    
+<h1> Week 3: Getting Started with `flexdashboards`</>  
   
