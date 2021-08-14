@@ -33,7 +33,17 @@
 ## Introduction to `flexdashboard`
 ## Xie et at, section 5.1
 
-<h1>Layouts for flexdashboards </>
+<h2>Layouts for flexdashboards </>
+
 ## Tabsets & Pages with Dashboards
+  ## Dashboard Layouts
+  ## flexboards Layouts
+  
+<h2>Interactivity with flexdashboards</>
+
+##  Shiny and Plotly in Dashboard
+## Shiny & flexdashboard
+## Homework: Making a Dashboard
+
 
   
