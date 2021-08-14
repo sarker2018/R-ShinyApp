@@ -22,6 +22,7 @@
   Shiny References: Using Sliders
   
 <h2>Controlling Layouts in Shiny</>
+  
   ## Layouts in Shiny
   ## Shiny themes
   ## Shiny References: Application Layout Guide
