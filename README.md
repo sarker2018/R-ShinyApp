@@ -1,6 +1,6 @@
 # RShinyAppWithDashboard
 
-<h2> Week 1: Introduction to Shiny<h2/>
+<h1> Week 1: Introduction to Shiny</>
 
 ## Example of a Shiny App
 ## Building your own Shiny App
