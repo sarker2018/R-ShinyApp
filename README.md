@@ -14,12 +14,17 @@
 ## Integrating Shiny into R Markdown
 ## DEploying Apps to shinyapp.io
 
-  <h2>Week 2: Input and Output</h2>
+  <h1>Week 2: Input and Output</>
   
 ## Output & Input with Shiny
   ## Shiny Documentations
   ## Shiny function reference - UI Inputs & Outputs
   Shiny References: Using Sliders
   
-  <h1>Controlling Layouts in Shiny</>
+<h2>Controlling Layouts in Shiny</>
+  ## Layouts in Shiny
+  ## Shiny themes
+  ## Shiny References: Application Layout Guide
+  
+    
   
