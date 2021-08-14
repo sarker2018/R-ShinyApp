@@ -21,5 +21,5 @@
   ## Shiny function reference - UI Inputs & Outputs
   Shiny References: Using Sliders
   
-  <h2>Controlling Layouts in Shiny</>
+  <h1>Controlling Layouts in Shiny</>
   
