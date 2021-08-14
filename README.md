@@ -28,4 +28,8 @@
   ## Shiny References: Application Layout Guide
   
 <h1> Week 3: Getting Started with `flexdashboards`</>  
+## Making Dashboards
+## Introduction to `flexdashboard`
+## Xie et at, section 5.1
+<h2>Layouts for flexdashboards<>
   
