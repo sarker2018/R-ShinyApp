@@ -1,6 +1,6 @@
 # RShinyAppWithDashboard
 ## [Click here to see the app on browser](https://b3pu77-sarker2018.shinyapps.io/BikewerbungApp/)
- * We can check/uncheck the given boxes to show our preferred result.
+ * We can check/uncheck the given boxes to show our preferred result. <br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/131169044-2650a5d5-48b3-4b25-b824-8e0c97e0fc91.png)
 
 
